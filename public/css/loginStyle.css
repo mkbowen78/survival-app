@@ -17,6 +17,13 @@ h2 {
   padding-left: 10px;
 }
 
+.container {
+  width: 510px;
+  margin: 0 auto 0 auto;  
+  min-height: 900px;
+  top:0;
+}
+
 #orLink {
   margin-left: 10px;
 }
